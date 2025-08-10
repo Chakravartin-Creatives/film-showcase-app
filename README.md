@@ -77,7 +77,21 @@ Open to pilots, co‑marketing, and creative experiments.
 ---
 
 ## License
-**Business Source License 1.1 (BSL 1.1)** — non‑commercial use only until **2028‑08‑06**, then converts to **Apache 2.0**.  
-See [LICENSE](./LICENSE) for full terms.
+Business Source License 1.1
+
+Licensor: Chakravartin Creatives  
+Licensed Work: film-showcase-app  
+Change Date: 2028-08-06  
+Change License: Apache License 2.0  
+
+Terms:
+
+1. Grant of Rights — You may use, copy, modify, and distribute the Licensed Work, but only for non-commercial purposes until the Change Date.
+2. Non-Commercial Limitation — Commercial use is prohibited until the Change Date unless you have a separate agreement with the Licensor.
+3. Change License — On the Change Date, this License will automatically convert to the Change License specified above.
+4. No Trademark Rights — This License does not grant rights to use the Licensor’s names, logos, or trademarks.
+5. Disclaimer — The Licensed Work is provided “AS IS” without warranty of any kind.
+
+For full details, see: https://mariadb.com/bsl11/
 
 © 2025 Chakravartin Creatives. All rights reserved.

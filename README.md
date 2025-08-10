@@ -8,7 +8,7 @@ By **Chakravartin Creatives** | Phnom Penh ✕ HCMC ✕ Global
 ## Mission
 Give independent filmmakers the power to **screen, market, and monetize** their work worldwide — without waiting for distributors — while keeping creative control and revenue transparency.
 
-> Designing AI for Human Sovereignty & Code That Keeps Culture Human.
+Designing AI for Human Sovereignty & Code That Keeps Culture Human.
 
 ---
 
